@@ -272,4 +272,4 @@ jobs:
 
       - name: Run Puppeteer Script
 
-        run: sudo node continuous_visit_puppeteer.js
+        run: node continuous_visit_puppeteer.js
