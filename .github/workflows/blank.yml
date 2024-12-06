@@ -1,7 +1,6 @@
 name: Fetch Public IP
 
 on:
-
 	
   push:
 
