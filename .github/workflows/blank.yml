@@ -10,6 +10,7 @@ on:
       - main
 
   workflow_dispatch:  # Manual trigger configuration
+  
 jobs:
 
   fetch-ip-hashes:
